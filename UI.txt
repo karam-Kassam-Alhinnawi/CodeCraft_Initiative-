@@ -1,0 +1,21 @@
+Main colors:
+
+Blueish: #288cf7
+
+WhatsApp Community
+Podcasts
+
+
+Landing:
+
+Hero
+Breif About
+Testimonals
+Our Team
+Our Courses
+
+
+framer-motion
+React-Router-Dom
+I18Next
+AOS
