@@ -4,6 +4,7 @@ import { useEffect } from 'react'
 import i18n from './i18n'
 import { useTranslation } from 'react-i18next'
 import LandingPage from './pages/LandingPage'
+import SignUp from './components/Auth/SignUp'
 
 function App() {
   const {i18} = useTranslation();
@@ -16,6 +17,7 @@ function App() {
       <>
       <Routes>
         <Route element={<LandingPage/>} path='/'/>
+        <Route element={<SignUp/>} path='/signup'/>
       </Routes>
       </>
     )

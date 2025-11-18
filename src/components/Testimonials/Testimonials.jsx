@@ -8,8 +8,8 @@ const Testimonials = () => {
     const data = t("reviews", {returnObjects: true});
 
   return (
-    <div className="py-10 bg-[#288cf7]">
-        <h2 className="text-white drop-shadow-[0_3px_6px_rgba(0,0,0,0.25)] text-5xl font-bold text-center">
+    <div className="py-10 bg-white">
+        <h2 className="text-blue-500 drop-shadow-[0_3px_6px_rgba(0,0,0,0.25)] text-5xl font-bold text-center">
             {t("testimonials")}
         </h2>
 

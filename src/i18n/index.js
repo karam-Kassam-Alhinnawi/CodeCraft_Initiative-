@@ -86,20 +86,34 @@ const resources = {
       "course": "Graphic Design"
     }
   ],
-      
-      // COURSES
-      "enroll": "Enroll Now",
-      "continue_learning": "Continue Learning",
-      "resume": "Resume",
-      "completed": "Completed",
-      
-      // But you can use simple keys too:
-      "welcome": "Welcome back, {{name}}!",
+
+  // Stats
+  "impact": "Impact",
+  "impact_data": "Transforming Digital Education Across the Arab World",
+
+  "students_empowered": "Students Empowered",
+  "courses_avalible": "Courses Avalible",
+  "volunnters": "Dedicated Volunteers",
+
+      // Courses
+      "frontend": "Frontend Development",
+      "Graphic Design": "Graphic Design",
+      "enroll": "Enroll now",
+
+      // Auth
+
+      "register to": "Reister to",
+      "fullname": "Name",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Submit",
+      "already have an account": "Already have an account?",
+      "sign in to your account here": "Sign in to your account here",
     }
   },
   ar: {
     translation: {
-      "name": "مبادرة كود كرافت",
+      "initname": "مبادرة كود كرافت",
       // NAVIGATION  
          "home": "الرئيسية",
         "aboutus": "من نحن", 
@@ -175,13 +189,22 @@ const resources = {
      ],
       
       
-      // COURSES
-      "enroll": "سجل الآن",
-      "continue_learning": "واصل التعلم", 
-      "resume": "استئناف",
-      "completed": "مكتمل",
-      
-      "welcome": "مرحباً بعودتك، {{name}}!",
+      "impact": "التأثير",
+      "impact_data": "تحويل التعليم الرقمي في العالم العربي",
+      "volunnters": "عدد المتطوعين",
+
+      "students_empowered": "طلاب تم تمكينهم",
+      "courses_avalible": "الدورات المتاحة",
+
+      // Auth 
+      "register to": "سجل في",
+      "fullname": "الاسم",
+      "email": "البريد الالكتروني",
+      "password": "كلمة المرور",
+      "submit": "ارسال",
+      "already have an account": "هل لديك حساب بالفعل؟",
+      "sign in to your account here": "سجل دخول الى حسابك هنا"
+
     }
   }
 };

@@ -21,7 +21,6 @@ const AboutUs = () => {
        <Cards/>
       </div>
 
-      <p>codecraft is one of a kinds initatiave </p>
 
        <button onClick={() => navigate("/aboutus")} className={buttonStyle}>{t("get_started")}</button>
     </div>
